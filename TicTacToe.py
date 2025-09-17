@@ -1,3 +1,5 @@
+Author: Wenqi Li 72512203 GUIZANG(github)
+Zhang Yanyun, 72512159, GUIZANG
 def is_win(game):
     win = False
     # Check rows
